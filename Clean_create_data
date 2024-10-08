@@ -1,0 +1,11 @@
+#CLEAN and CREATE DATA
+#1. Packages and paths
+#2. Erstellen small Matrix from Excel (Aktivitäten (Fahre, Stehen, Lenkpause), Uhrzeiten)
+#3. Addressen Matrix von Excel erstellen
+#3.1. Leere Adressen Matrix erstellen und Funktionen
+#3.2. Addressen Matrix befüllen (jedes Fahrzeug einzeln hinzufügen, um zu debuggen & wegen langer Zeit)
+#3.3. Fehler korriegieren und Speichern
+#4. big Matrix von Excel erstellen (Aktivitäten, Uhrzeiten, Standort, Distanz, Beladung, Höhenmeter)
+#4.1. big Matrix ohne Adressen erstellen
+#4.2.Adressen, Distanzen, Höhenunterschied und Geschwindigkeit hinzufügen
+#5. Kennzahlen (Durchschnite, Maxima und Minima)
